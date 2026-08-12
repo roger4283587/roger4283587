@@ -15,7 +15,10 @@ Estou no Primeiro semestre do curso Desenvolvimento de Software Multiplataforma 
 <br>
 <br>
 <div>
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=roger4283587)](https://github.com/stats-organization/github-stats-extended)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=roger4283587&include_all_commits=true&theme=blue_navy)](https://github-stats-extended.vercel.app/api?username=roger4283587&include_all_commits=true&theme=blue_navy)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=roger4283587&layout=compact&langs_count=5&theme=blue_navy)](https://github-stats-extended.vercel.app/api/top-langs?username=roger4283587&layout=compact&langs_count=5&theme=blue_navy)
 
 
 </div>
