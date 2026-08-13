@@ -19,17 +19,17 @@ Estou no Segundo semestre do curso Desenvolvimento de Software Multiplataforma n
 <table align="center">
 <tr>
     <td>
-   <a>https://github-stats-extended.vercel.app/api?username=roger4283587&include_all_commits=true&theme=blue_navy)](https://github-stats-extended.vercel.app/api?username=roger4283587&include_all_commits=true&theme=blue_navy</a>
+     <a href="https://github.com/roger4283587">
+  <img height="180em"
+       src="https://github-stats-extended.vercel.app/api?username=roger4283587&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github"/>
+</a>
     </td>
     <td>
-     <a>https://github-stats-extended.vercel.app/api/top-langs?username=roger4283587&langs_count=4&theme=blue_navy)](https://github-stats-extended.vercel.app/api/top-langs?username=roger4283587&langs_count=4&theme=blue_navy</a>
+      <a href="https://github.com/roger4283587"> <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=roger4283587&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue_navy&hide_border=false&order=2"/>
+      </a>
     </td>
   </tr>
 </table>
-
-
-
-
 
 </div>
 
