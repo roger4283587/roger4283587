@@ -34,7 +34,6 @@ Estou no Segundo semestre do curso Desenvolvimento de Software Multiplataforma n
 </div>
 
 <br>
-<br>
 
 
 ---   
