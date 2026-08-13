@@ -16,9 +16,21 @@ Estou no Segundo semestre do curso Desenvolvimento de Software Multiplataforma n
 <br>
 <div>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=roger4283587&include_all_commits=true&theme=blue_navy)](https://github-stats-extended.vercel.app/api?username=roger4283587&include_all_commits=true&theme=blue_navy)
+<table align="center">
+<tr>
+    <td>
+    [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=roger4283587&include_all_commits=true&theme=blue_navy)](https://github-stats-extended.vercel.app/api?username=roger4283587&include_all_commits=true&theme=blue_navy)
+</a>
+    </td>
+    <td>
+      [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=roger4283587&langs_count=4&theme=blue_navy)](https://github-stats-extended.vercel.app/api/top-langs?username=roger4283587&langs_count=4&theme=blue_navy)
+    </td>
+  </tr>
+</table>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=roger4283587&langs_count=4&theme=blue_navy)](https://github-stats-extended.vercel.app/api/top-langs?username=roger4283587&langs_count=4&theme=blue_navy)
+
+
+
 
 </div>
 
