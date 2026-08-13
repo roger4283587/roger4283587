@@ -11,7 +11,7 @@
 
 <br>
 Meu nome é Roger Alves de Oliveira, Sou de São Paulo.
-Estou no Primeiro semestre do curso Desenvolvimento de Software Multiplataforma na Fatec.
+Estou no Segundo semestre do curso Desenvolvimento de Software Multiplataforma na Fatec.
 <br>
 <br>
 <div>
